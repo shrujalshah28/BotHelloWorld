@@ -1,0 +1,30 @@
+{
+  "name": "bothelloworld",
+  "version": "1.0.0",
+  "description": "First Bot on top of Micrisoft Bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrujalshah28/BotHelloWorld.git"
+  },
+  "keywords": [
+    "bot",
+    "helloworld",
+    "first",
+    "bot",
+    "framwork"
+  ],
+  "author": "Shrujal Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shrujalshah28/BotHelloWorld/issues"
+  },
+  "homepage": "https://github.com/shrujalshah28/BotHelloWorld#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
